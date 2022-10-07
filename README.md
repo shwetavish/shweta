@@ -8,4 +8,4 @@
 
 => Happy to Help :)
 
-[![@shwetavish's Holopin board](https://holopin.io/api/user/board?user=shweta)](https://holopin.io/@shweta)
+https://holopin.io/@shweta
